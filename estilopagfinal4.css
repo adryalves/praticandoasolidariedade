@@ -1,0 +1,49 @@
+*{
+  margin:0;
+  padding:0;
+}
+html,body{height:100%;}
+.geral{
+  min-height: height 100%;
+  position: relative;
+  width:800px;
+}
+nav{
+    background: blue;
+    width: 100%;
+  height: 50px;
+font-size: 150%;
+color: cornsilk;
+} 
+
+
+
+article{
+background:white;
+height:230%;
+font-family:haleway;
+font-family: arial;
+font-size:20px;
+}
+
+footer{
+  background-color:darkblue;
+  background-color:blue;
+  bottom:1x;
+  top: 3300px;
+  color:#FFF;
+  line-height:50px;
+  position:relative;
+  height:60px;
+  font-size:150%
+  
+  }
+body{
+position:relative;
+height:200px;
+}
+a{
+text-decoration: none;
+color: white;
+
+}
